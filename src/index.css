@@ -452,14 +452,6 @@ html {
   }
 }
 
-@media (width <=998px) {
-  .navbar-collapse{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-}
-
 @media (max-width: 993px) {
 
   .hero-container {
